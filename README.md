@@ -120,3 +120,7 @@ BACKEND
 
 <img src="img_templates/img10.png">
 
+## Deployment
+
+Deployed on Render: https://froker-blog.onrender.com
+
