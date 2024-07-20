@@ -93,21 +93,30 @@ BACKEND
 - Login Page via email-password or Firebase 
  <img  src="img_templates/img0.png">
 <img  src="img_templates/img1.png">
+
 - Active DashBoard for Users
+
 <img  src="img_templates/img2.png">
+
 - A customised search layout to search required post as and when needed
+
+
 <img  src="img_templates/img3.png">
 <img src="img_templates/img4.png">
-<img src="img_templates/img5.png">
--Subscribe to Newsletter
+
+- Subscribe to Newsletter
+
  <img src="img_templates/img6.png">
+
 - Commments,Edits,Like ,Delete added for comments.
 <img src="img_templates/img7.png">
 <img src="img_templates/img8.png">
 
-- Backend encrypted database for user details,posts,comment .
+- Backend encrypted database for user details,posts,comment.
+
 <img src="img_templates/img9.png">
 
 - Recent articles feature
+
 <img src="img_templates/img10.png">
 
