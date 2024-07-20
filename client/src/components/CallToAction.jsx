@@ -28,7 +28,7 @@ export default function CallToAction() {
 </div>
           </div>
           <img
-          src="/public/image.png" 
+          src="/image.png" 
           alt="Full Width"
           className="mt-10"
         />

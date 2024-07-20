@@ -43,7 +43,7 @@ export default function SignUp() {
         {/* left */}
         <div className='flex-1'>
           <Link to='/' className='font-bold dark:text-white text-4xl'>
-          <img src='/public/froker.png'></img>
+          <img src='/froker.png'></img>
           </Link>
           <p className='text-sm mt-5'>
             You can sign up with your email and password

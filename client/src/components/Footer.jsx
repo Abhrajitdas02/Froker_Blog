@@ -12,7 +12,7 @@ export default function FooterCom() {
               to='/'
               className='self-center whitespace-nowrap text-lg sm:text-xl font-semibold dark:text-white'
             >
-             <img src='/public/froker.png'></img>
+             <img src='/froker.png'></img>
             </Link>
           </div>
           <div className='flex flex-grow justify-around mt-4'>

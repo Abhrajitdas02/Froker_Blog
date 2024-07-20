@@ -48,7 +48,7 @@ export default function SignIn() {
         {/* left */}
         <div className='flex-1'>
           <Link to='/' className='font-bold dark:text-white text-4xl'>
-          <img src='/public/froker.png'></img>
+          <img src='/froker.png'></img>
           </Link>
           <p className='text-sm mt-5'>
             You can sign in with your email and password
